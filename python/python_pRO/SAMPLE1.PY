@@ -3,7 +3,7 @@ import random
   
 # list of possible colour. 
 colours = ['Red','Blue','Green','Pink','Black', 
-           'Yellow','Orange','White','Purple','Brown'] 
+           'Yellow','Orange','White','Purple','Brown','Purple'] 
 score = 0
   
 # the game time left, initially 30 seconds. 
