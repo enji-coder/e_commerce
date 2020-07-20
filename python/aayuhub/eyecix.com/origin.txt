@@ -1,0 +1,3460 @@
+Uri: https://eyecix.com/html/ecoenvironment/
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\index.htm
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/css/bootstrap.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/css/font-awesome.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/css/flaticon.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\css\flaticon.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/css/slick-slider.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\css\slick-slider.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/css/fancybox.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\css\fancybox.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/style.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\style.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/css/color.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\css\color.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/css/responsive.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\css\responsive.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/index.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\index.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/index-two.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\index-two.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/about-us.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\about-us.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/event-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\event-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/event-grid-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\event-grid-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/event-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\event-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/event-list.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\event-list.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/event-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\event-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/event-detail-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\event-detail-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/project-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\project-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/project-grid-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\project-grid-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/project-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\project-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/project-list.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\project-list.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/project-list-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\project-list-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/project-list-wos.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\project-list-wos.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/project-medium.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\project-medium.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/project-medium-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\project-medium-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/project-medium-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\project-medium-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/project-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\project-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/project-detail-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\project-detail-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/team-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\team-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/blog-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\blog-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/blog-grid-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\blog-grid-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/blog-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\blog-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/blog-large.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\blog-large.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/blog-large-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\blog-large-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/blog-medium.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\blog-medium.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/blog-medium-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\blog-medium-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/blog-medium-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\blog-medium-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/blog-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\blog-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/blog-detail-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\blog-detail-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/cause-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\cause-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/cause-grid-wrls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\cause-grid-wrls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/cause-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\cause-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/cause-list-wos.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\cause-list-wos.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/cause-list.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\cause-list.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/cause-list-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\cause-list-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/404.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\404.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/search-result.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\search-result.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/gallery.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\gallery.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/gallery-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\gallery-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/gallery-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\gallery-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/team-grid-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\team-grid-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/team-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\team-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/team-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\team-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/team-detail-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\team-detail-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/donation-page.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\donation-page.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/shop-list.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\shop-list.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/contact-us.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\contact-us.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/shop-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\shop-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/shop-grid-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\shop-grid-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/shop-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\shop-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/shop-list-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\shop-list-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/shop-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\shop-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/shop-detail-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\shop-detail-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/cause-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\cause-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-widget-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-widget-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-widget-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-widget-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-widget-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-widget-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-widget-4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-widget-4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-widget-5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-widget-5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-widget-6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-widget-6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/images/logo.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\logo.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/cartbox-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\cartbox-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/cartbox-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\cartbox-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/banner-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/banner-thumb-1.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\banner-thumb-1.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/banner-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-gallery-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-gallery-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-gallery-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-gallery-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-gallery-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-gallery-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-gallery-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-gallery-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-gallery-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-gallery-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-gallery-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-gallery-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-gallery-img7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-gallery-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-gallery-img8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-gallery-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-grid-img-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-grid-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-grid-img-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-grid-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-grid-img-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-grid-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/modren-event-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\modren-event-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/modren-event-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\modren-event-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/modren-event-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\modren-event-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/cause-simple-grid1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\cause-simple-grid1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/cause-simple-grid2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\cause-simple-grid2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/cause-simple-grid3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\cause-simple-grid3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/cause-simple-grid4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\cause-simple-grid4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/shop-grid-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\shop-grid-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/shop-grid-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\shop-grid-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/shop-grid-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\shop-grid-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/shop-grid-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\shop-grid-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/widget-latest-news-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\widget-latest-news-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/images/footer-logo.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\footer-logo.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/script/jquery.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\script\jquery.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/script/bootstrap.min.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\script\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/script/slick.slider.min.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\script\slick.slider.min.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/script/jquery.countdown.min.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\script\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/script/fancybox.pack.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\script\fancybox.pack.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/script/isotope.min.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\script\isotope.min.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/script/progressbar.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\script\progressbar.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/script/counter.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\script\counter.js
+Content Type: application/javascript
+
+Uri: https://maps.googleapis.com/maps/api/js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/script/functions.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\script\functions.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/images/services-back-img.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\services-back-img.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/index-donate-back-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\index-donate-back-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/images/donate-top-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\donate-top-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/donate-bottom-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\donate-bottom-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/error-back-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\error-back-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/testimonial-back-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\testimonial-back-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eyecix.com/html/ecoenvironment/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eyecix.com/html/ecoenvironment/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://eyecix.com/html/ecoenvironment/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://eyecix.com/html/ecoenvironment/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://eyecix.com/html/ecoenvironment/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://eyecix.com/html/ecoenvironment/fonts/icomoon.eot?d427k4
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eyecix.com/html/ecoenvironment/fonts/icomoon.ttf?d427k4
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\fonts\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://eyecix.com/html/ecoenvironment/fonts/icomoon.woff?d427k4
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\fonts\icomoon.woff
+Content Type: font/woff
+
+Uri: https://eyecix.com/html/ecoenvironment/fonts/icomoon.svg?d427k4
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://eyecix.com/html/ecoenvironment/images/fancybox/fancybox_sprite.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\fancybox\fancybox_sprite.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/fancybox/blank.gif
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: https://eyecix.com/html/ecoenvironment/images/fancybox/fancybox_overlay.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\fancybox\fancybox_overlay.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/fancybox/fancybox_sprite@2x.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\fancybox\fancybox_sprite@2x.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/fancybox/fancybox_loading@2x.gif
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\fancybox\fancybox_loading@2x.gif
+Content Type: image/gif
+
+Uri: https://fonts.googleapis.com/css?family=Hind:300,400,500,600,700&subset=devanagari,latin-ext
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Oxygen:300,400,700&subset=latin-ext
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\css-1.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/images/header-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\header-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/sub-header-two.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\sub-header-two.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/footer-back-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\footer-back-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/images/services-back-icon.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\services-back-icon.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/header-shape-left.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\header-shape-left.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/header-shape-right.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\header-shape-right.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/header-shape-top.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\header-shape-top.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/header-shape-bottom.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\header-shape-bottom.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/donate-top-border.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\donate-top-border.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/donate-bottom-border.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\donate-bottom-border.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/simplegrid-bottom-img.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\simplegrid-bottom-img.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/footer-icon-back-img.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\footer-icon-back-img.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/sub-header.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\sub-header.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/images/blog-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\blog-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/blog-medium-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\blog-medium-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/countdown-back-img.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\countdown-back-img.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/countdown-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\countdown-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/gallery-shape-left.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\gallery-shape-left.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/gallery-shape-right.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\gallery-shape-right.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/gallery-shape-top.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\gallery-shape-top.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/gallery-shape-bottom.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\gallery-shape-bottom.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/related-project-shape2.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\related-project-shape2.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/images/logo-two.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\images\logo-two.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/banner-two-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\banner-two-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/banner-two-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\banner-two-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\index.htm
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\index.htm
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/team-modren-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\team-modren-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/team-modren-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\team-modren-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/team-modren-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\team-modren-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/team-modren-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\team-modren-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/testimonial-img-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\testimonial-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/testimonial-img-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\testimonial-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/testimonial-img-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\testimonial-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/partner-logo-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\partner-logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/partner-logo-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\partner-logo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/partner-logo-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\partner-logo-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/partner-logo-4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\partner-logo-4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/partner-logo-5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\partner-logo-5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/event-grid-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\event-grid-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/event-grid-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\event-grid-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/event-grid-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\event-grid-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/event-grid-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\event-grid-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/event-grid-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\event-grid-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/event-grid-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\event-grid-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/widget-gallery-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\widget-gallery-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/widget-gallery-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\widget-gallery-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/widget-gallery-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\widget-gallery-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/widget-gallery-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\widget-gallery-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/widget-gallery-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\widget-gallery-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/widget-gallery-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\widget-gallery-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/widget-post-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\widget-post-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/widget-post-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\widget-post-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/widget-post-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\widget-post-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/modren-event-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\modren-event-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/modren-event-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\modren-event-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/event-detail-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\event-detail-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/post-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\post-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/post-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\post-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/organizer-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\organizer-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/event-related-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\event-related-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/event-related-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\event-related-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/event-related-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\event-related-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-grid-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-grid-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-grid-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-grid-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-grid-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-grid-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-grid-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-grid-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-grid-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-grid-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-grid-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-grid-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-grid-img7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-grid-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-grid-img8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-grid-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-list-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-list-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-list-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-list-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-list-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-list-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-list-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-list-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-list-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-list-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-list-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-list-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-medium-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-medium-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-medium-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-medium-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-medium-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-medium-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-medium-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-medium-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-medium-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-medium-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-medium-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-medium-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-medium-img7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-medium-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-medium-img8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-medium-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/project-detail-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\project-detail-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-img-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-img-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-img-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-img-5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-img-6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-img-7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/team-grid-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\team-grid-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/team-grid-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\team-grid-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/team-grid-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\team-grid-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/team-grid-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\team-grid-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/team-grid-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\team-grid-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/team-grid-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\team-grid-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/team-grid-img7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\team-grid-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/team-grid-img8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\team-grid-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-grid-img-4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-grid-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-grid-img-5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-grid-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-grid-img-6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-grid-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-grid-img-7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-grid-img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-grid-img-8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-grid-img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-large-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-large-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-large-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-large-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-large-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-large-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-large-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-large-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-medium-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-medium-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-medium-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-medium-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-medium-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-medium-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-medium-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-medium-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-medium-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-medium-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-medium-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-medium-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-medium-img7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-medium-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-medium-img8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-medium-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/blog-detail-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\blog-detail-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/related-blog-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\related-blog-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/related-blog-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\related-blog-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/related-blog-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\related-blog-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/comment-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\comment-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/comment-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\comment-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/comment-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\comment-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/comment-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\comment-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/cause-simple-grid5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\cause-simple-grid5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/cause-simple-grid6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\cause-simple-grid6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/cause-simple-grid7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\cause-simple-grid7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/cause-simple-grid8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\cause-simple-grid8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/cause-simple-grid9.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\cause-simple-grid9.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/cause-list-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\cause-list-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/cause-list-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\cause-list-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/cause-list-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\cause-list-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/cause-list-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\cause-list-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/cause-list-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\cause-list-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/search-resulct-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\search-resulct-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/search-resulct-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\search-resulct-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-img-4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-img-8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-img-9.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-img-9.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-img-10.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-img-10.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-img-11.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-img-11.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/gallery-img-12.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\gallery-img-12.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/team-medium-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\team-medium-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/related-team-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\related-team-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/related-team-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\related-team-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/related-team-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\related-team-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/shop-list-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\shop-list-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/shop-list-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\shop-list-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/shop-list-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\shop-list-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/shop-list-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\shop-list-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/shop-list-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\shop-list-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/shop-detail-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\shop-detail-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/shop-detail-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\shop-detail-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/shop-detail-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\shop-detail-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/shop-detail-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\shop-detail-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/cause-detail-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\cause-detail-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/extra-images/admin-post-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\extra-images\admin-post-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/css/bootstrap.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/css/font-awesome.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/css/flaticon.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\css\flaticon.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/css/slick-slider.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\css\slick-slider.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/css/fancybox.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\css\fancybox.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/style.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\style.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/css/color.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\css\color.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/css/responsive.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\css\responsive.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/index-two.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\index-two.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/index.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\index.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/about-us.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\about-us.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/event-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\event-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/event-grid-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\event-grid-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/event-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\event-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/event-list.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\event-list.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/event-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\event-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/event-detail-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\event-detail-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/project-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\project-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/project-grid-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\project-grid-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/project-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\project-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/project-list.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\project-list.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/project-list-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\project-list-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/project-list-wos.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\project-list-wos.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/project-medium.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\project-medium.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/project-medium-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\project-medium-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/project-medium-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\project-medium-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/project-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\project-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/project-detail-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\project-detail-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/team-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\team-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/blog-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\blog-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/blog-grid-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\blog-grid-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/blog-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\blog-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/blog-large.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\blog-large.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/blog-large-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\blog-large-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/blog-medium.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\blog-medium.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/blog-medium-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\blog-medium-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/blog-medium-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\blog-medium-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/blog-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\blog-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/blog-detail-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\blog-detail-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/cause-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\cause-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/cause-grid-wrls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\cause-grid-wrls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/cause-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\cause-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/cause-list-wos.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\cause-list-wos.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/cause-list.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\cause-list.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/shop-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\shop-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/cause-list-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\cause-list-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/404.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\404.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/search-result.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\search-result.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/gallery.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\gallery.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/gallery-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\gallery-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/shop-grid-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\shop-grid-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/gallery-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\gallery-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/team-grid-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\team-grid-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/team-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\team-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/team-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\team-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/shop-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\shop-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/team-detail-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\team-detail-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/donation-page.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\donation-page.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/shop-list-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\shop-list-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/shop-list.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\shop-list.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/shop-detail-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\shop-detail-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/shop-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\shop-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/contact-us.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\contact-us.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/cause-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\cause-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-widget-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-widget-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-widget-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-widget-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-widget-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-widget-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-widget-4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-widget-4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-widget-5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-widget-5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-widget-6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-widget-6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/logo-two.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\logo-two.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/cartbox-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\cartbox-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/cartbox-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\cartbox-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/banner-two-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\banner-two-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/banner-two-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\banner-two-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-gallery-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-gallery-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-gallery-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-gallery-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-gallery-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-gallery-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-gallery-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-gallery-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-gallery-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-gallery-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-gallery-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-gallery-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-gallery-img7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-gallery-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-gallery-img8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-gallery-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-grid-img-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-grid-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-grid-img-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-grid-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-grid-img-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-grid-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/modren-event-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\modren-event-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/modren-event-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\modren-event-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/modren-event-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\modren-event-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/cause-simple-grid1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\cause-simple-grid1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/cause-simple-grid2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\cause-simple-grid2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/cause-simple-grid3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\cause-simple-grid3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/cause-simple-grid4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\cause-simple-grid4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/shop-grid-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\shop-grid-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/shop-grid-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\shop-grid-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/shop-grid-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\shop-grid-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/shop-grid-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\shop-grid-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/widget-latest-news-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\widget-latest-news-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/footer-logo.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\footer-logo.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/script/jquery.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\script\jquery.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/script/bootstrap.min.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\script\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/script/slick.slider.min.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\script\slick.slider.min.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/script/jquery.countdown.min.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\script\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/script/fancybox.pack.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\script\fancybox.pack.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/script/isotope.min.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\script\isotope.min.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/script/progressbar.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\script\progressbar.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/script/counter.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\script\counter.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/script/functions.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\script\functions.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/css/bootstrap.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/css/font-awesome.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/css/flaticon.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\css\flaticon.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/css/slick-slider.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\css\slick-slider.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/css/fancybox.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\css\fancybox.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/style.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\style.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/css/rtl.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\css\rtl.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/css/color.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\css\color.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/css/responsive.css
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\css\responsive.css
+Content Type: text/css
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/index.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\index.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/index-two.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\index-two.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/about-us.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\about-us.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/event-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\event-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/event-grid-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\event-grid-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/event-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\event-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/event-list.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\event-list.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/event-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\event-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/event-detail-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\event-detail-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/project-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\project-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/project-grid-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\project-grid-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/project-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\project-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/project-list.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\project-list.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/project-list-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\project-list-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/project-list-wos.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\project-list-wos.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/project-medium.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\project-medium.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/project-medium-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\project-medium-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/project-medium-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\project-medium-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/project-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\project-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/project-detail-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\project-detail-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/team-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\team-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/blog-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\blog-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/blog-grid-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\blog-grid-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/blog-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\blog-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/blog-large.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\blog-large.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/blog-large-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\blog-large-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/blog-medium.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\blog-medium.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/blog-medium-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\blog-medium-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/blog-medium-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\blog-medium-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/blog-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\blog-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/blog-detail-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\blog-detail-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/cause-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\cause-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/cause-grid-wrls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\cause-grid-wrls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/cause-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\cause-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/cause-list-wos.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\cause-list-wos.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/cause-list.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\cause-list.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/cause-list-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\cause-list-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/404.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\404.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/search-result.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\search-result.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/gallery.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\gallery.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/gallery-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\gallery-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/gallery-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\gallery-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/team-grid-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\team-grid-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/team-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\team-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/team-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\team-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/team-detail-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\team-detail-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/donation-page.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\donation-page.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/shop-list.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\shop-list.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/contact-us.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\contact-us.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/shop-grid.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\shop-grid.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/shop-grid-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\shop-grid-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/shop-grid-wrs.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\shop-grid-wrs.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/shop-list-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\shop-list-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/shop-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\shop-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/shop-detail-wls.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\shop-detail-wls.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/cause-detail.html
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\cause-detail.html
+Content Type: text/html
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-widget-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-widget-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-widget-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-widget-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-widget-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-widget-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-widget-4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-widget-4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-widget-5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-widget-5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-widget-6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-widget-6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/logo.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\logo.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/cartbox-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\cartbox-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/cartbox-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\cartbox-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/banner-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/banner-thumb-1.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\banner-thumb-1.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/banner-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-gallery-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-gallery-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-gallery-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-gallery-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-gallery-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-gallery-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-gallery-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-gallery-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-gallery-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-gallery-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-gallery-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-gallery-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-gallery-img7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-gallery-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-gallery-img8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-gallery-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-grid-img-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-grid-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-grid-img-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-grid-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-grid-img-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-grid-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/modren-event-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\modren-event-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/modren-event-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\modren-event-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/modren-event-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\modren-event-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/cause-simple-grid1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\cause-simple-grid1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/cause-simple-grid2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\cause-simple-grid2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/cause-simple-grid3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\cause-simple-grid3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/cause-simple-grid4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\cause-simple-grid4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/shop-grid-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\shop-grid-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/shop-grid-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\shop-grid-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/shop-grid-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\shop-grid-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/shop-grid-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\shop-grid-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/widget-latest-news-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\widget-latest-news-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/footer-logo.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\footer-logo.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/script/jquery.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\script\jquery.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/script/bootstrap.min.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\script\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/script/slick.slider.min.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\script\slick.slider.min.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/script/jquery.countdown.min.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\script\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/script/fancybox.pack.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\script\fancybox.pack.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/script/isotope.min.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\script\isotope.min.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/script/progressbar.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\script\progressbar.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/script/counter.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\script\counter.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/script/functions.js
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\script\functions.js
+Content Type: application/javascript
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/services-back-img.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\services-back-img.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/index-donate-back-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\index-donate-back-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/donate-top-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\donate-top-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/donate-bottom-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\donate-bottom-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/error-back-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\error-back-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/testimonial-back-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\testimonial-back-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/fonts/icomoon.eot?d427k4
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/fonts/icomoon.ttf?d427k4
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\fonts\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/fonts/icomoon.woff?d427k4
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\fonts\icomoon.woff
+Content Type: font/woff
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/fonts/icomoon.svg?d427k4
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/fancybox/fancybox_sprite.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\fancybox\fancybox_sprite.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/fancybox/blank.gif
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/fancybox/fancybox_overlay.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\fancybox\fancybox_overlay.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/fancybox/fancybox_sprite@2x.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\fancybox\fancybox_sprite@2x.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/fancybox/fancybox_loading@2x.gif
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\fancybox\fancybox_loading@2x.gif
+Content Type: image/gif
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/header-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\header-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/sub-header-two.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\sub-header-two.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/footer-back-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\footer-back-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/services-back-icon.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\services-back-icon.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/header-shape-left.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\header-shape-left.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/header-shape-right.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\header-shape-right.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/header-shape-top.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\header-shape-top.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/header-shape-bottom.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\header-shape-bottom.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/donate-top-border.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\donate-top-border.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/donate-bottom-border.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\donate-bottom-border.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/simplegrid-bottom-img.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\simplegrid-bottom-img.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/footer-icon-back-img.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\footer-icon-back-img.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/sub-header.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\sub-header.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/blog-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\blog-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/blog-medium-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\blog-medium-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/countdown-back-img.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\countdown-back-img.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/countdown-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\countdown-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/gallery-shape-left.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\gallery-shape-left.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/gallery-shape-right.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\gallery-shape-right.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/gallery-shape-top.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\gallery-shape-top.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/gallery-shape-bottom.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\gallery-shape-bottom.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/related-project-shape2.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\related-project-shape2.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/images/logo.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\images\logo.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/banner-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/banner-thumb-1.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\banner-thumb-1.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/banner-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/team-modren-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\team-modren-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/team-modren-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\team-modren-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/team-modren-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\team-modren-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/team-modren-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\team-modren-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/testimonial-img-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\testimonial-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/testimonial-img-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\testimonial-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/testimonial-img-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\testimonial-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/partner-logo-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\partner-logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/partner-logo-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\partner-logo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/partner-logo-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\partner-logo-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/partner-logo-4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\partner-logo-4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/partner-logo-5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\partner-logo-5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/event-grid-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\event-grid-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/event-grid-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\event-grid-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/event-grid-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\event-grid-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/event-grid-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\event-grid-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/event-grid-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\event-grid-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/event-grid-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\event-grid-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/widget-gallery-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\widget-gallery-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/widget-gallery-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\widget-gallery-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/widget-gallery-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\widget-gallery-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/widget-gallery-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\widget-gallery-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/widget-gallery-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\widget-gallery-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/widget-gallery-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\widget-gallery-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/widget-post-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\widget-post-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/widget-post-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\widget-post-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/widget-post-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\widget-post-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/modren-event-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\modren-event-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/modren-event-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\modren-event-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/event-detail-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\event-detail-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/post-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\post-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/post-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\post-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/organizer-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\organizer-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/event-related-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\event-related-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/event-related-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\event-related-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/event-related-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\event-related-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-grid-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-grid-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-grid-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-grid-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-grid-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-grid-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-grid-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-grid-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-grid-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-grid-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-grid-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-grid-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-grid-img7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-grid-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-grid-img8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-grid-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-list-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-list-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-list-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-list-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-list-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-list-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-list-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-list-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-list-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-list-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-list-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-list-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-medium-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-medium-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-medium-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-medium-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-medium-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-medium-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-medium-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-medium-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-medium-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-medium-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-medium-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-medium-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-medium-img7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-medium-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-medium-img8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-medium-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/project-detail-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\project-detail-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-img-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-img-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-img-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-img-5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-img-6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-img-7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/team-grid-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\team-grid-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/team-grid-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\team-grid-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/team-grid-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\team-grid-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/team-grid-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\team-grid-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/team-grid-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\team-grid-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/team-grid-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\team-grid-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/team-grid-img7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\team-grid-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/team-grid-img8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\team-grid-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-grid-img-4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-grid-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-grid-img-5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-grid-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-grid-img-6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-grid-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-grid-img-7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-grid-img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-grid-img-8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-grid-img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-large-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-large-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-large-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-large-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-large-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-large-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-large-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-large-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-medium-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-medium-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-medium-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-medium-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-medium-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-medium-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-medium-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-medium-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-medium-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-medium-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-medium-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-medium-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-medium-img7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-medium-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-medium-img8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-medium-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/blog-detail-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\blog-detail-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/related-blog-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\related-blog-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/related-blog-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\related-blog-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/related-blog-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\related-blog-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/comment-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\comment-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/comment-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\comment-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/comment-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\comment-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/comment-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\comment-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/cause-simple-grid5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\cause-simple-grid5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/cause-simple-grid6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\cause-simple-grid6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/cause-simple-grid7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\cause-simple-grid7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/cause-simple-grid8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\cause-simple-grid8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/cause-simple-grid9.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\cause-simple-grid9.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/cause-list-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\cause-list-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/cause-list-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\cause-list-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/cause-list-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\cause-list-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/cause-list-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\cause-list-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/cause-list-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\cause-list-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/search-resulct-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\search-resulct-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/search-resulct-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\search-resulct-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-img-4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-img-8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-img-9.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-img-9.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-img-10.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-img-10.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-img-11.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-img-11.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/gallery-img-12.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\gallery-img-12.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/team-medium-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\team-medium-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/related-team-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\related-team-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/related-team-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\related-team-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/related-team-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\related-team-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/shop-list-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\shop-list-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/shop-list-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\shop-list-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/shop-list-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\shop-list-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/shop-list-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\shop-list-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/shop-list-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\shop-list-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/shop-detail-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\shop-detail-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/shop-detail-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\shop-detail-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/shop-detail-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\shop-detail-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/shop-detail-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\shop-detail-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/cause-detail-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\cause-detail-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/demo2/extra-images/admin-post-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\demo2\extra-images\admin-post-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/services-back-img.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\services-back-img.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/index-donate-back-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\index-donate-back-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/donate-top-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\donate-top-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/donate-bottom-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\donate-bottom-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/error-back-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\error-back-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/testimonial-back-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\testimonial-back-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/fonts/icomoon.eot?d427k4
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/fonts/icomoon.ttf?d427k4
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\fonts\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/fonts/icomoon.woff?d427k4
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\fonts\icomoon.woff
+Content Type: font/woff
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/fonts/icomoon.svg?d427k4
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/fancybox/fancybox_sprite.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\fancybox\fancybox_sprite.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/fancybox/blank.gif
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/fancybox/fancybox_overlay.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\fancybox\fancybox_overlay.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/fancybox/fancybox_sprite@2x.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\fancybox\fancybox_sprite@2x.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/fancybox/fancybox_loading@2x.gif
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\fancybox\fancybox_loading@2x.gif
+Content Type: image/gif
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/header-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\header-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/sub-header-two.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\sub-header-two.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/footer-back-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\footer-back-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/services-back-icon.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\services-back-icon.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/header-shape-left.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\header-shape-left.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/header-shape-right.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\header-shape-right.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/header-shape-top.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\header-shape-top.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/header-shape-bottom.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\header-shape-bottom.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/donate-top-border.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\donate-top-border.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/donate-bottom-border.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\donate-bottom-border.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/simplegrid-bottom-img.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\simplegrid-bottom-img.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/footer-icon-back-img.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\footer-icon-back-img.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/sub-header.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\sub-header.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/blog-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\blog-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/blog-medium-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\blog-medium-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/countdown-back-img.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\countdown-back-img.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/countdown-shape.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\countdown-shape.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/gallery-shape-left.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\gallery-shape-left.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/gallery-shape-right.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\gallery-shape-right.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/gallery-shape-top.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\gallery-shape-top.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/gallery-shape-bottom.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\gallery-shape-bottom.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/related-project-shape2.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\related-project-shape2.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/images/logo-two.png
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\images\logo-two.png
+Content Type: image/png
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/banner-two-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\banner-two-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/banner-two-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\banner-two-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/team-modren-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\team-modren-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/team-modren-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\team-modren-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/team-modren-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\team-modren-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/team-modren-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\team-modren-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/testimonial-img-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\testimonial-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/testimonial-img-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\testimonial-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/testimonial-img-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\testimonial-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/partner-logo-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\partner-logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/partner-logo-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\partner-logo-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/partner-logo-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\partner-logo-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/partner-logo-4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\partner-logo-4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/partner-logo-5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\partner-logo-5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/event-grid-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\event-grid-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/event-grid-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\event-grid-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/event-grid-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\event-grid-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/event-grid-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\event-grid-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/event-grid-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\event-grid-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/event-grid-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\event-grid-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/widget-gallery-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\widget-gallery-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/widget-gallery-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\widget-gallery-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/widget-gallery-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\widget-gallery-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/widget-gallery-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\widget-gallery-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/widget-gallery-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\widget-gallery-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/widget-gallery-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\widget-gallery-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/widget-post-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\widget-post-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/widget-post-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\widget-post-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/widget-post-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\widget-post-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/modren-event-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\modren-event-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/modren-event-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\modren-event-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/event-detail-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\event-detail-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/post-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\post-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/post-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\post-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/organizer-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\organizer-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/event-related-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\event-related-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/event-related-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\event-related-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/event-related-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\event-related-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-grid-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-grid-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-grid-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-grid-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-grid-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-grid-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-grid-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-grid-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-grid-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-grid-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-grid-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-grid-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-grid-img7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-grid-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-grid-img8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-grid-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-list-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-list-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-list-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-list-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-list-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-list-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-list-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-list-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-list-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-list-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-list-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-list-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-medium-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-medium-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-medium-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-medium-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-medium-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-medium-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-medium-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-medium-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-medium-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-medium-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-medium-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-medium-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-medium-img7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-medium-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-medium-img8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-medium-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/project-detail-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\project-detail-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-img-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-img-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-img-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-img-5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-img-6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-img-7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/team-grid-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\team-grid-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/team-grid-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\team-grid-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/team-grid-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\team-grid-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/team-grid-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\team-grid-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/team-grid-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\team-grid-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/team-grid-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\team-grid-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/team-grid-img7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\team-grid-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/team-grid-img8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\team-grid-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-grid-img-4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-grid-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-grid-img-5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-grid-img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-grid-img-6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-grid-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-grid-img-7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-grid-img-7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-grid-img-8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-grid-img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-large-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-large-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-large-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-large-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-large-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-large-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-large-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-large-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-medium-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-medium-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-medium-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-medium-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-medium-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-medium-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-medium-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-medium-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-medium-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-medium-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-medium-img6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-medium-img6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-medium-img7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-medium-img7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-medium-img8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-medium-img8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/blog-detail-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\blog-detail-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/related-blog-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\related-blog-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/related-blog-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\related-blog-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/related-blog-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\related-blog-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/comment-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\comment-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/comment-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\comment-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/comment-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\comment-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/comment-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\comment-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/cause-simple-grid5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\cause-simple-grid5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/cause-simple-grid6.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\cause-simple-grid6.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/cause-simple-grid7.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\cause-simple-grid7.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/cause-simple-grid8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\cause-simple-grid8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/cause-simple-grid9.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\cause-simple-grid9.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/cause-list-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\cause-list-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/cause-list-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\cause-list-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/cause-list-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\cause-list-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/cause-list-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\cause-list-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/cause-list-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\cause-list-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/search-resulct-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\search-resulct-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/search-resulct-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\search-resulct-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-img-4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-img-4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-img-8.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-img-9.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-img-9.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-img-10.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-img-10.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-img-11.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-img-11.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/gallery-img-12.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\gallery-img-12.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/team-medium-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\team-medium-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/related-team-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\related-team-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/related-team-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\related-team-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/related-team-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\related-team-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/shop-list-img1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\shop-list-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/shop-list-img2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\shop-list-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/shop-list-img3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\shop-list-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/shop-list-img4.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\shop-list-img4.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/shop-list-img5.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\shop-list-img5.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/shop-detail-1.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\shop-detail-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/shop-detail-2.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\shop-detail-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/shop-detail-3.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\shop-detail-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/shop-detail-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\shop-detail-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/cause-detail-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\cause-detail-img.jpg
+Content Type: image/jpeg
+
+Uri: https://eyecix.com/html/ecoenvironment/rtl/extra-images/admin-post-img.jpg
+File Name: C:\Users\Android\Desktop\python\aayuhub\eyecix.com\html\ecoenvironment\rtl\extra-images\admin-post-img.jpg
+Content Type: image/jpeg
+

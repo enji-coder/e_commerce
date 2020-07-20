@@ -1,0 +1,337 @@
+body{
+	direction: rtl;
+}
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+    float: right;
+}
+.environment-strip-icon,.environment-strip-icon li,.environment-strip-info li,.environment-strip-info li i,.navbar,.navbar-nav > li,.environment-user-option > li,
+.enviroment-services-strip ul li,.enviroment-simple-services ul li,.enviroment-services-left,.enviroment-services-right span,.blog-grid-option li i,.blog-grid-option li,
+.environment-modren-event ul li figure,.environment-event-option > li,.environment-donate-form form ul li,.environment-donate-form form ul li label,.cause-simplegrid-bottom span,
+.widget_contact_info > ul > li > i,.widget_contact_info > .environment-footer-social > li,.widget_latest_news figure,.widget_gallery ul li,.environment-breadcrumb li,
+.environment-aboutus-counter .environment-simple-btn,.widget_recent_blog figure,.widget_events ul li time,.widget_archive ul li a,.widget_cetagories ul li a,.comment-list li figure,
+.environment-tags, .environment-tags span, .environment-tags a,.environment-blog-social ul li,.environment-prenxt-post ul li,.environment-post-arrow i,.environment-next-post > figure,
+.comment-reply-link,.comment-respond form p,.environment-large-option > li,.environment-blog-medium-wrap figure,.environment-plan-btn,.environment-admin-post figure,.admin-post-option li,
+.environment-cause-list ul li figure,.environment-contact-form form ul li,.environment-contactus-info ul li span,.donation-wrap h4,.environment-related-cause .skillst > span,
+.event-detail-option li,.environment-project-option > li,.environment-project-option > li span,.environment-project-option > li p, .environment-project-option > li a,.environment-images-list,
+.environment-project-skills .skillst span,.environment-project-list-wrap figure,.environment-project-medium-wrap figure,.environment-form-result form,.environment-search-options > li,
+.environment-search-options > li i,.star-rating,.environment-shop-summery small,.environment-price-cartbox del,.environment-images,.environment-shop-Cetagory li,.nav-tabs > li,
+.nav-tabs,.environment-shop-list-wrap figure,.environment-team-medium figure,.environment-recentpost > .widget-post > li,.environment-event-grid-text .environment-readmore-btn {
+	float: right;
+}
+.environment-strip-info,.environment-user-option,.enviroment-services-right,.enviroment-services-left span,.cause-simplegrid-bottom span:last-child,.environment-copyright p,
+.environment-blog-social, .environment-blog-social ul,.environment-prev-post figure,.environment-next-artical > .environment-post-arrow i,.comment-reply-link i,.donation-wrap h4 span,
+.comment-respond form > .environment-full-form,.environment-large-option > li time,.environment-large-option > li a,.environment-cause-donate > span,.admin-post-option li span,
+.environment-related-cause .skillst > span:first-child,.event-detail-option li time,.event-detail-option li p,.environment-large-option > li p,.environment-project-skills .skillst small {
+	float: left;
+} 
+
+.environment-banner,.shop-grid-slider,.environment-partner-slider,.environment-adminpost-slider {
+ 	direction: ltr;
+ }
+
+/*-- header--*/
+.environment-top-strip:before {
+	left: auto;
+	right: 0px;
+}
+.environment-top-strip { padding: 6px 30px 6px 0px;}
+.environment-strip-icon li { margin: 10px 0px 10px 15px;}
+.environment-strip-info li { margin: 11px 30px 0px 0px;}
+.environment-strip-info li i { margin: 7px 0px 0px 15px;}
+.environment-user-option > li { margin: 29px 24px 0px 0px;}
+.navbar-nav > li:first-child { padding-right: 13px; padding-left: 22px;}
+.navbar-nav > li > a:before { content: ']';}
+.navbar-nav > li > a:after { content: '[';}
+.environment-dropdown-menu li a { text-align: right;}
+.environment-dropdown-menu .environment-dropdown-menu { left: auto; right: 122%; }
+.enviroment-services-strip ul li h2 { padding: 12px 90px 0px 0px;}
+.enviroment-services-strip ul li i { left: auto; right: 15px;}
+.enviroment-services-right span ~ section { margin: 0px 102px 0px 0px;}
+.enviroment-services-left span ~ section { margin: 0px 0px 0px 102px; text-align: left;}
+.enviroment-services-left span:before, .enviroment-services-right span:before { border-left: none; border-right: 10px solid transparent; left: auto; right: -10px;}
+.enviroment-services-right span:before { border-right: none; border-left: 10px solid transparent; right: auto; left: -10px;}
+.blog-grid-option li { margin: 0px 0px 5px 24px;}
+.blog-grid-option li:last-child { margin: 0px 0px 5px 0px;}
+.blog-grid-option li i { margin: 7px 0px 0px 15px;}
+.environment-modren-event ul li figure ~ .environment-modren-event-text { margin: 0px 458px 0px 0px; border-left: 1px solid #eeeeee; border-right: none;}
+.environment-modren-event-text h3,.environment-modren-event-text p { text-align: right;}
+.environment-modren-event-text { padding: 51px 30px 42px 18px;}
+.environment-event-option li i { left: auto; right: 0px;}
+.environment-event-option > li { margin: 0px 0px 10px 30px; padding: 0px 22px 0px 0px;}
+.environment-event-option > li:last-child { margin: 0px 0px 10px 0px;}
+.environment-event-option li time, .environment-event-option li p { margin: 0px 11px 0px 0px;}
+.environment-select-two:after { left: 0px; right: auto;}
+.environment-donate-form form ul li input[type="text"] { padding: 0px 3px 9px;}
+.bar-container .bar { left: auto; right: 0px;}
+.bar-container .bar:after { left: 2px; right: auto;}
+.bar-container .bar:before { left: 0px; right: auto;}
+.environment-footer-title:before { left: 13px; right: auto;}
+.environment-footer-title h2:before { left: 6px; right: auto;}
+.environment-footer-title h2:before {
+	-webkit-transform: rotate(-45deg);
+	   -moz-transform: rotate(-45deg);
+	    -ms-transform: rotate(-45deg);
+	     -o-transform: rotate(-45deg);
+	        transform: rotate(-45deg);
+}
+.environment-footer-title h2:after { left: 0px; right: auto;}
+.environment-footer-title h2:after {
+	-webkit-transform: rotate(45deg);
+	   -moz-transform: rotate(45deg);
+	    -ms-transform: rotate(45deg);
+	     -o-transform: rotate(45deg);
+	        transform: rotate(45deg);
+}
+.widget_contact_info > ul > li > i { margin: 3px 0px 0px 16px;}
+.widget_contact_info > ul > li > i:after { border-left: 4px solid transparent; border-right: none; left: -4px; right: auto;}
+.widget_contact_info > .environment-footer-social > li { margin: 0px 0px 10px 15px;}
+.widget_latest_news figure ~ section { margin: 4px 100px 0px 0px;}
+.widget_latest_news figure a:before { left: auto; right: 0px; }
+.widget_twitter ul li h6 { padding: 0px 42px 0px 0px;}
+.widget_twitter ul li i { left: auto; right: 0px;}
+.environment-breadcrumb li { padding: 0px 0px 0px 17px;}
+.environment-breadcrumb li:before { left: auto; right: -10px;}
+.environment-aboutus-counter.environment-counter ul li:before { left: 0px; right: auto;}
+.environment-aboutus-counter .enviroment-heading { text-align: right;}
+.widget_search form label:before { left: 21px; right: auto;}
+.widget_search form input[type="submit"] { left: 0px; right: auto;}
+.environment-widget-heading:before { left: 13px; right: auto;}
+.environment-widget-heading h2:before { right: auto; left: 6px;}
+ .environment-widget-heading h2:before {
+ 	-webkit-transform: rotate(-45deg);
+ 	   -moz-transform: rotate(-45deg);
+ 	    -ms-transform: rotate(-45deg);
+ 	     -o-transform: rotate(-45deg);
+ 	        transform: rotate(-45deg);
+ }
+ .environment-widget-heading h2:after { right: auto; left: 0px;}
+ .environment-widget-heading h2:after {
+ 	-webkit-transform: rotate(45deg);
+ 	   -moz-transform: rotate(45deg);
+ 	    -ms-transform: rotate(45deg);
+ 	     -o-transform: rotate(45deg);
+ 	        transform: rotate(45deg);
+ }
+ .widget_recent_blog figure ~ .environment-recentpost { margin: 0 95px 0 0px;}
+ .environment-post-hover { left: auto; right: -50px;}
+ .widget_recent_blog ul li:hover .environment-post-hover { left: auto; right: 0px;}
+ .environment-post-hover i { left: auto; right: 0px; margin: -8px -5px 0px 0px;}
+ .environment-post-hover i {
+ 	-webkit-transform: scale(-1);
+ 	   -moz-transform: scale(-1);
+ 	    -ms-transform: scale(-1);
+ 	     -o-transform: scale(-1);
+ 	        transform: scale(-1);
+ }
+ .widget_recent_blog ul li:hover .environment-post-hover i { right: 50%; left: auto;}
+ .widget_events ul li time:before { border-left: 10px solid transparent; border-right: none; right: auto; left: -10px;}
+ .widget_events ul li time ~ .environment-event-text { margin: 0px 90px 0px 0px;}
+ .widget_archive ul li { padding: 0 35px 11px 0px;}
+ .widget_archive ul li:before { left: auto; right: 0px; content: "\f0a5";}
+ .widget_archive ul li:hover:before { left: auto; right: 3px;}
+ .widget_archive ul li:after { right: auto; left: 31px; margin: 0px 0px 0px -31px;}
+ .widget_archive ul li:hover:after { right: auto; left: 100%;}
+ .widget_cetagories ul li { padding: 0 35px 11px 0px;}
+ .widget_cetagories ul li:before { left: auto; right: 0px; content: "\f0a5";}
+ .widget_cetagories ul li:hover:before { left: auto; right: 3px;}
+ .widget_cetagories ul li:after { right: auto; left: 31px; margin: 0px 0px 0px -31px;}
+ .widget_cetagories ul li:hover:after { right: auto; left: 100%;}
+ blockquote:after { left: auto; right: 20px;}
+ .environment-tags a:before { border-left: 6px solid transparent; border-right: none; right: auto; left: -6px;}
+ .environment-tags a { margin: 0 20px 10px 0px;}
+ .environment-blog-social ul li { margin: 0 16px 0 0px;}
+ .environment-prenxt-post ul li figure ~ .environment-prev-artical { margin: 0 0px 0 89px; text-align: left; padding: 3px 0px 0 20px;}
+ .environment-post-arrow i {
+ 	margin: 10px 0 0 10px;
+ 	-webkit-transform: scale(-1);
+ 	   -moz-transform: scale(-1);
+ 	    -ms-transform: scale(-1);
+ 	     -o-transform: scale(-1);
+ 	        transform: scale(-1);
+ }
+ .environment-prenxt-post ul li figure ~ .environment-next-artical { margin: 0 89px 0 0px; padding: 3px 20px 0 0px;}
+ .environment-next-artical > .environment-post-arrow i { margin: 8px 10px 0 0px;}
+ .comment-list figure ~ .text-holder { margin: 0px 134px 0px 0px;}
+ .text-holder .post-date { left: 0px; right: auto;}
+ .comment-reply-link i {
+ 	margin: 10px 7px 0 0;
+ 	-webkit-transform: scaleX(-1);
+ 	   -moz-transform: scaleX(-1);
+ 	    -ms-transform: scaleX(-1);
+ 	     -o-transform: scaleX(-1);
+ 	        transform: scaleX(-1);
+ }
+.environment-section-heading h2:before { left: 7px; right: auto;}
+.environment-section-heading h2:before {
+	-webkit-transform: rotate(-45deg);
+	   -moz-transform: rotate(-45deg);
+	    -ms-transform: rotate(-45deg);
+	     -o-transform: rotate(-45deg);
+	        transform: rotate(-45deg);
+}
+.environment-section-heading h2:after { left: 0px; right: auto;}
+.environment-section-heading h2:after {
+	-webkit-transform: rotate(45deg);
+	   -moz-transform: rotate(45deg);
+	    -ms-transform: rotate(45deg);
+	     -o-transform: rotate(45deg);
+	        transform: rotate(45deg);
+}
+.environment-section-heading h2 span:before { left: 15px; right: auto;}
+.comment-respond form p input[type="text"], .comment-respond form p input[type="email"] { padding-right: 15px;}
+.comment-respond form p i { left: 42px; right: auto;}
+.comment-respond form p { padding: 0 0px 0 15px;}
+.comment-respond form > .environment-full-form { padding: 0 15px 0 0px;}
+.comment-respond form > .environment-full-form > i { left: 17px; right: auto;}
+.environment-full-form textarea { padding: 8px 14px 0px 0px;}
+.environment-large-option > li { margin: 0 0px 10px 29px;}
+.environment-large-option > li time, .environment-large-option > li a { margin: 1px 15px 0 0px;}
+.environment-pagination > ul > li > .previous, .environment-pagination > ul > li > .next {
+	-webkit-transform: scaleX(-1);
+	   -moz-transform: scaleX(-1);
+	    -ms-transform: scaleX(-1);
+	     -o-transform: scaleX(-1);
+	        transform: scaleX(-1);
+}
+.environment-blog-medium .blog-grid-option li i { margin: 7px 0px 0 13px;}
+.environment-blog-medium .blog-grid-option li { margin: 0 0px 5px 33px;}
+.environment-blog-medium .blog-grid-option li:before { left: -18px; right: auto;}
+.environment-blog-medium-wrap figure ~ section { margin: 0 262px 0 0px;}
+.environment-blog-medium .blog-grid-option li:last-child { margin-left: 0px;}
+.environment-adminpost-slider .slick-arrow { left: 6px; right: auto;}
+.environment-adminpost-slider .slick-arrow-left.slick-arrow { left: 56px; right: auto;}
+.environment-adminpost-slider .slick-arrow {
+	-webkit-transform: scaleX(-1);
+	   -moz-transform: scaleX(-1);
+	    -ms-transform: scaleX(-1);
+	     -o-transform: scaleX(-1);
+	        transform: scaleX(-1);
+}
+.admin-post-option li { margin: 0 0px 10px 30px;}
+.environment-admin-post figure ~ section { margin: 0 360px 0 0px; padding: 32px 30px 23px 0px; text-align: right;}
+.admin-post-option li span:before { border-left: 6px solid transparent; border-right: none; left: -6px; right: auto;}
+.admin-post-option li span { margin: 0px 15px 0px 0px;}
+.environment-cause-list ul li figure ~ section { margin: 0 233px 0 0px; padding: 5px 29px 0 0px;}
+.environment-cause-list-wrap { padding: 30px 29px 30px 30px;}
+.environment-cause-list ul li figure:before {
+	left: 0px; right: auto;
+	-webkit-transform: scaleX(-1);
+	   -moz-transform: scaleX(-1);
+	    -ms-transform: scaleX(-1);
+	     -o-transform: scaleX(-1);
+	        transform: scaleX(-1);
+}
+.environment-cause-list ul li figure a:before { left: auto; right: 0px;}
+.environment-cause-list ul li figure a i {
+	right: 0px; left: auto; margin: -22px -22px 0 0px;
+	-webkit-transform: scaleX(-1);
+	   -moz-transform: scaleX(-1);
+	    -ms-transform: scaleX(-1);
+	     -o-transform: scaleX(-1);
+	        transform: scaleX(-1);
+}
+.environment-cause-list ul li:hover figure a i { right: 50%; left: auto;}
+.environment-contact-form form ul li input[type="text"] { padding: 4px 15px 4px 6px;}
+.environment-contact-form form ul li i { left: 30px; right: auto;}
+.environment-contact-form form ul li textarea { padding: 10px 15px 0px 10px;}
+.environment-contactus-info ul li span:before { left: -10px; right: auto; border-left: 10px solid transparent; border-right: none;}
+.environment-contactus-info ul li span ~ .environment-contactus-text { margin: -9px 100px 0px 0px;}
+.environment-add-amount label:before { left: 119px; right: auto; border-right: 5px solid #efefef; border-left: none;}
+.environment-add-amount input[type="submit"] { left: 0px; right: auto;}
+.donation-wrap { padding: 0 35px 0 0px;}
+.donation-wrap:before { right: 0px; left: auto;}
+.donation-wrap:after { left: auto; right: 3px;}
+.donation-wrap h4 span { margin: 3px 11px 0 0px;}
+.environment-Donation-form form ul li i { left: 30px; right: auto;}
+.environment-Donation-form .environment-select-two select { padding: 0px 10px 0px 0px;}
+.environment-Donation-form .environment-select-two:before { left: 0px; right: auto;}
+.environment-Donation-form .environment-select-two:after { left: 10px; right: auto;}
+.event-detail-option li time:before, .event-detail-option li p:before { border-left: 6px solid transparent; border-right: none; left: -6px; right: auto;}
+.event-detail-option li time, .event-detail-option li p { margin: 0 20px 0 0px;}
+.event-detail-option li { margin: 0 0px 10px 30px;}
+.environment-list-style-one li:before { left: auto; right: 0px;}
+.environment-list-style-one li { padding: 0 33px 0 0px;}
+.environment-large-option > li:last-child { margin-left: 0px;}
+.environment-related-event-text .environment-large-option > li time,.environment-related-event-text .environment-large-option > li a { margin-left: 0px; margin-right: 10px;}
+.environment-related-event-text h5,.environment-event-grid-text h5 { text-align: right;}
+.environment-related-event ul li figure > time { border-radius: 10px 100px 100px; left: auto; right: -6px;}
+.environment-large-option > li p { margin: 1px 10px 0 0px;}
+.environment-event-grid-text .environment-large-option > li time { margin-right: 10px; margin-left: 0px;}
+.environment-modren-event ul li figure:before {
+	left: 0px; right: auto;
+	-webkit-transform: scaleX(-1);
+	   -moz-transform: scaleX(-1);
+	    -ms-transform: scaleX(-1);
+	     -o-transform: scaleX(-1);
+	        transform: scaleX(-1);
+}
+.environment-modren-event ul li figure > time { border-radius: 10px 100px 100px; right: 30px; left: auto;}
+.environment-modren-event ul li:hover figure > time { left: auto; right: 50px;}
+.environment-project-option > li:last-child { margin: 0 0 6px 0px;}
+.environment-project-option > li { margin: 0 0 6px 26px; padding: 0 19px 0 0px;}
+.environment-project-option > li i { left: auto; right: 0px;}
+.environment-project-option > li span { margin: 0 0px 0 13px;}
+.environment-project-option > li p, .environment-project-option > li a { margin: 1px 0 0 3px;}
+.environment-project-list-wrap { padding: 30px 30px 30px 23px;}
+.environment-project-list-wrap figure:before { border-left: 10px solid #fff; border-right: none; right: auto; left: 0px;}
+.environment-project-list-wrap figure ~ section { margin: 0 329px 0 0px; padding: 11px 30px 0 0px;}
+.environment-project-medium-wrap figure:before { border-left: 10px solid #fff; border-right: none; left: 0px; right: auto;}
+.environment-project-medium-wrap figure ~ section { margin: 0 232px 0 0px; padding: 15px 30px 0px 0px;}
+.environment-project-medium-wrap:before {
+	left: -1px;
+	right: auto;
+}
+.environment-project-medium-wrap { padding: 30px 30px 30px 23px;}
+.environment-form-result form label:before { left: 11px; right: auto;}
+.environment-form-result form input[type="submit"] { left: 0px; right: auto;}
+.environment-search-options > li { margin: 0 0 11px 30px;}
+.environment-search-options > li:last-child { margin: 0px 0px 11px 0px;}
+.environment-search-options > li i:after { border-left: 5px solid transparent; border-right: none; right: auto; left: -5px;}
+.environment-search-options > li i { margin: 0px 0px 0px 14px;}
+.environment-price-cartbox del { margin: 6px 0px 0 9px;}
+.environment-select { margin: 0 27px 30px 0px;}
+.nav-tabs li { margin: 0 0px 0 20px;}
+.environment-shop-list-wrap figure ~ section { margin: 0 232px 0 0px; padding: 1px 30px 0 0px;}
+.environment-shop-list-wrap { padding: 30px 30px 30px 23px;}
+.environment-shop-list-wrap figure:before {
+	left: 0px; right: auto;
+	-webkit-transform: scaleX(-1);
+	   -moz-transform: scaleX(-1);
+	    -ms-transform: scaleX(-1);
+	     -o-transform: scaleX(-1);
+	        transform: scaleX(-1);
+}
+.environment-team-medium figure ~ .environment-team-mediun-text { margin: 0 262px 0 0px; padding: 0 30px; 0 0px;}
+.environment-list-style-two li:before { left: auto; right: 0px;}
+.environment-list-style-two li { padding: 0px 30px 0px 0px;}
+.environment-error-wrap form label:before { border-left: none; border-right: 5px solid #efefef; right: auto; left: 95px;}
+.environment-error-wrap form input[type="submit"] { right: auto; left: 0px;}
+.environment-aboutus-text .enviroment-services-strip ul li h2 { padding-right: 75px; padding-left: 0px;}
+.environment-blog-medium-wrap:before {
+	left: -1px; right: auto;
+	-webkit-transform: scaleX(-1);
+	   -moz-transform: scaleX(-1);
+	    -ms-transform: scaleX(-1);
+	     -o-transform: scaleX(-1);
+	        transform: scaleX(-1);
+}
+.environment-blog-medium-wrap { padding: 30px 30px 30px 23px;}
+.environment-cart-box { left: 0px; right: auto;}
+.environment-search-popup { left: 0px; right: auto;}
+.environment-search-popup i { left: 30px; right: auto;}
+.environment-search-popup input[type="submit"] { right: auto; left: 15px;}
+.environment-fancy-btn span::after,.environment-fancy-btn span::before { width: 36%;}
+.environment-mega-text p,.environment-event-grid-text > p { text-align: right;}
+.banner-caption-text h1 span { text-align: left;}
+.banner-caption-text { direction: rtl;}
+.subheader-transparent {
+    background: -webkit-linear-gradient(left, #76c5c4 10%, #40c543 90%);
+    background:    -moz-linear-gradient(left, #76c5c4 10%, #40c543 90%);
+    background:     -ms-linear-gradient(left, #76c5c4 10%, #40c543 90%);
+    background:      -o-linear-gradient(left, #76c5c4 10%, #40c543 90%);
+    background:         linear-gradient(left, #76c5c4 10%, #40c543 90%);
+}
+.environment-images-thumb figure { padding: 0px 30px 0px 0px;}
+.environment-shop-detail-section { padding: 30px 29px 30px 0px;}
+
+
